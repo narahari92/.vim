@@ -35,3 +35,6 @@
 	path = bundle/coc.nvim
 	url = https://github.com/neoclide/coc.nvim
 	branch = release
+[submodule "bundle/vim-graphql"]
+	path = bundle/vim-graphql
+	url = git@github.com:jparise/vim-graphql.git
